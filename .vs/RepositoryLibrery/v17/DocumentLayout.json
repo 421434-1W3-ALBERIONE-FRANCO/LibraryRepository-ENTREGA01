@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|c:\\users\\alber\\desktop\\libraryrepository\\libraryrepository\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|c:\\users\\alber\\desktop\\libraryrepository\\libraryrepository\\domain\\invoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|solutionrelative:domain\\invoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|c:\\users\\alber\\desktop\\libraryrepository\\libraryrepository\\domain\\detailinvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|solutionrelative:domain\\detailinvoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|c:\\users\\alber\\desktop\\libraryrepository\\libraryrepository\\services\\invoicesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|solutionrelative:services\\invoicesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|c:\\users\\alber\\desktop\\libraryrepository\\libraryrepository\\services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|solutionrelative:services\\bookservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|c:\\users\\alber\\desktop\\libraryrepository\\libraryrepository\\data\\implementations\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|solutionrelative:data\\implementations\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|c:\\users\\alber\\desktop\\libraryrepository\\libraryrepository\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|solutionrelative:domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|c:\\users\\alber\\desktop\\libraryrepository\\libraryrepository\\data\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|solutionrelative:data\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|c:\\users\\alber\\desktop\\libraryrepository\\libraryrepository\\data\\helper\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|solutionrelative:data\\helper\\datahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|c:\\users\\alber\\desktop\\libraryrepository\\libraryrepository\\data\\implementations\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|solutionrelative:data\\implementations\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|c:\\users\\alber\\desktop\\libraryrepository\\libraryrepository\\repositorylibrery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|solutionrelative:repositorylibrery.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|c:\\users\\alber\\desktop\\libraryrepository\\libraryrepository\\data\\helper\\spparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|solutionrelative:data\\helper\\spparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|c:\\users\\alber\\desktop\\libraryrepository\\libraryrepository\\data\\interface\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|solutionrelative:data\\interface\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|c:\\users\\alber\\desktop\\libraryrepository\\libraryrepository\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F5FA68-A59B-D8DE-BE08-0EC0DCA8B38A}|RepositoryLibrery.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T14:13:50.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailInvoices.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Domain\\DetailInvoices.cs",
+              "RelativeDocumentMoniker": "Domain\\DetailInvoices.cs",
+              "ToolTip": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Domain\\DetailInvoices.cs",
+              "RelativeToolTip": "Domain\\DetailInvoices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:51:02.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Invoices.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Domain\\Invoices.cs",
+              "RelativeDocumentMoniker": "Domain\\Invoices.cs",
+              "ToolTip": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Domain\\Invoices.cs",
+              "RelativeToolTip": "Domain\\Invoices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T21:23:07.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoicesService.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Services\\InvoicesService.cs",
+              "RelativeDocumentMoniker": "Services\\InvoicesService.cs",
+              "ToolTip": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Services\\InvoicesService.cs",
+              "RelativeToolTip": "Services\\InvoicesService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T14:10:58.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookServices.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Services\\BookServices.cs",
+              "RelativeDocumentMoniker": "Services\\BookServices.cs",
+              "ToolTip": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Services\\BookServices.cs",
+              "RelativeToolTip": "Services\\BookServices.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T13:43:30.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Data\\Implementations\\BookRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Implementations\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Data\\Implementations\\BookRepository.cs",
+              "RelativeToolTip": "Data\\Implementations\\BookRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:54:59.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Domain\\Book.cs",
+              "RelativeDocumentMoniker": "Domain\\Book.cs",
+              "ToolTip": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Domain\\Book.cs",
+              "RelativeToolTip": "Domain\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T21:24:21.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Data\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Data\\Interface\\IRepository.cs",
+              "RelativeToolTip": "Data\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:39:56.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Data\\Helper\\DataHelper.cs",
+              "RelativeDocumentMoniker": "Data\\Helper\\DataHelper.cs",
+              "ToolTip": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Data\\Helper\\DataHelper.cs",
+              "RelativeToolTip": "Data\\Helper\\DataHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:40:49.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Data\\Implementations\\InvoiceRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Implementations\\InvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Data\\Implementations\\InvoiceRepository.cs",
+              "RelativeToolTip": "Data\\Implementations\\InvoiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:27:04.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepositoryLibrery.csproj",
+              "DocumentMoniker": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\RepositoryLibrery.csproj",
+              "RelativeDocumentMoniker": "RepositoryLibrery.csproj",
+              "ToolTip": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\RepositoryLibrery.csproj",
+              "RelativeToolTip": "RepositoryLibrery.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-09T13:42:35.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SpParameter.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Data\\Helper\\SpParameter.cs",
+              "RelativeDocumentMoniker": "Data\\Helper\\SpParameter.cs",
+              "ToolTip": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Data\\Helper\\SpParameter.cs",
+              "RelativeToolTip": "Data\\Helper\\SpParameter.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:45:17.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IInvoiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Data\\Interface\\IInvoiceRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Interface\\IInvoiceRepository.cs",
+              "ToolTip": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Data\\Interface\\IInvoiceRepository.cs",
+              "RelativeToolTip": "Data\\Interface\\IInvoiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T12:18:44.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\alber\\Desktop\\LibraryRepository\\LibraryRepository\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T11:33:53.797Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
